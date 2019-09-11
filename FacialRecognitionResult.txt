@@ -1,0 +1,3 @@
+person: jackie
+checkInStatus: 1
+meetingType: 1
